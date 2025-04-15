@@ -57,7 +57,7 @@ This work aims to contribute towards:
 
 ## Connect With Me
 - LinkedIn: Coming Soon  
-- X (Twitter): Coming Soon  
+- X (Twitter): akaafridi12
 - GitHub: [@akaafridi](https://github.com/akaafridi)
 
 
