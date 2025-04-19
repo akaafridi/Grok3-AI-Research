@@ -53,6 +53,11 @@ This work aims to contribute towards:
 - Cost-Effective AI Deployments
 - Responsible AI Development for Humanity
 
+
+## 🔬 Demo Notebook
+
+- [Grok3_Demo.ipynb](notebooks/Grok3_Demo.ipynb) – Simulated inference comparison between FP8 and FP16 modes
+
 ---
 
 ## Connect With Me
