@@ -52,3 +52,43 @@ Install everything:
 
 ```bash
 pip install -r requirements.txt
+```
+
+Run live inference:
+
+```bash
+python src/inference_grok3.py
+```
+
+---
+
+## 📊 Benchmarks & Data
+
+- 📈 [FP8 vs FP16 vs FP32 Inference Chart](benchmarks/fp8_vs_fp16_vs_fp32.png)
+- 🤖 [Robotics Performance CSV](benchmarks/robotics_performance.csv)
+- 📋 [Benchmark Summary (Markdown)](benchmarks/benchmark_results.md)
+
+---
+
+## 🛡️ Responsible AI Design
+
+- ✅ Formal safety checks (Z3 / Lean4 logic included)
+- ✅ Low-energy footprint (FP8 + model compression)
+- ✅ Multimodal readiness for future expansions
+
+---
+
+## 🌌 Inspired by xAI's Mission
+
+This research aligns with xAI’s vision to build **safe, aligned, scalable AI systems** that help humanity understand the universe.
+
+> _“Grok-3 isn't just a model — it's a data-driven leap into future-proof, responsible AGI engineering.”_ — [Mohd Ibrahim Afridi](mailto:afridiibrahim12@outlook.com)
+
+---
+
+## 🔗 Connect
+
+- 💼 [afridiibrahim12@outlook.com](mailto:afridiibrahim12@outlook.com)
+- 📚 [GitHub](https://github.com/akaafridi)
+- 📄 [Zenodo Paper](https://zenodo.org/record/15227014)
+
