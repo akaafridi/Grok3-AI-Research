@@ -1,0 +1,20 @@
+# config/config.yaml
+
+model:
+  input_dim: 32
+  hidden_dim: 64
+  num_experts: 4
+  top_k: 2
+  use_fp8_layer: true
+
+training:
+  batch_size: 8
+  epochs: 5
+  learning_rate: 0.001
+  use_cuda: true
+
+inference:
+  prompt: "The purpose of Grok-3 is to"
+  max_length: 50
+  top_k: 40
+  temperature: 0.8
