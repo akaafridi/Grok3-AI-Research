@@ -53,10 +53,14 @@ This work aims to contribute towards:
 - Cost-Effective AI Deployments
 - Responsible AI Development for Humanity
 
+- ## 🔬 Demo Notebooks
 
-## 🔬 Demo Notebook
+Explore simulations and benchmarks related to Grok‑3's architecture:
 
-- [Grok3_Demo.ipynb](notebooks/Grok3_Demo.ipynb) – Simulated inference comparison between FP8 and FP16 modes
+- [🧠 Grok3_Demo.ipynb](notebooks/Grok3_Demo.ipynb) – Simulated FP8 vs FP16 inference benchmark
+- [🔀 MoE_Routing_Simulation.ipynb](notebooks/MoE_Routing_Simulation.ipynb) – Simulates token routing using MoE architecture
+- [⚡ Token_Generation_Benchmark.ipynb](notebooks/Token_Generation_Benchmark.ipynb) – Compares generation time across models
+
 
 ---
 
