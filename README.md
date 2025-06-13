@@ -1,4 +1,4 @@
-# 🚀 Grok‑3: A Data‑Driven Leap Beyond GPT‑4
+# 🚀 Grok-3: Architecture Beyond GPT-4 – A Data-Driven Leap
 
 > **An architectural evolution of Large Language Models (LLMs)** focused on modularity, energy efficiency, robotics integration, and FP8-optimized inference — built to surpass GPT‑4 in real-world performance.
 
